@@ -1,0 +1,1 @@
+console.log('React 앱 메인');
